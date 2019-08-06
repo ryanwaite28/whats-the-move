@@ -1,0 +1,1 @@
+npm install --save @sendgrid/mail bcrypt-nodejs body-parser client-sessions cloudinary concurrently cors dotenv express express-device express-fileupload fs-extra momentnodemon nunjucks pg pg-hstore sequelize socket.io socket.io-client sqlite sqlite3 uuid
